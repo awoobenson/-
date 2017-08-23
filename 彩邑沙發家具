@@ -1,3 +1,4 @@
+<!--------雪菲絲 - 皮沙發語法-------->
 <div class="item clearfix" itemscope itemtype="http://schema.org/Product" onmouseout="$('#pr_img_34').prop('src','upload/catalog_list_pic/cf0c113d25160ed3b249b0f3d943aca5.jpg');" onmouseover="$('#pr_img_34').prop('src','upload/catalog_list_pic_2/cf0c113d25160ed3b249b0f3d943aca5.jpg');">
     <!--item-->
     <div class="Img">
@@ -16,6 +17,9 @@
 <!--item-->
 
 
+
+
+<!--------伊士登 - 皮沙發語法-------->
 <div class="item clearfix" itemscope itemtype="http://schema.org/Product" onmouseout="$('#pr_img_17').prop('src','upload/catalog_list_pic/a03da667b42965136a80bde94848ecd1.jpg');" onmouseover="$('#pr_img_17').prop('src','upload/catalog_list_pic_2/a03da667b42965136a80bde94848ecd1.jpg');">
     <!--item-->
     <div class="Img">
@@ -34,6 +38,9 @@
 <!--item-->
 
 
+
+
+<!--------韋伯斯 - 皮沙發語法-------->
 <div class="item clearfix" itemscope itemtype="http://schema.org/Product" onmouseout="$('#pr_img_8').prop('src','upload/catalog_list_pic/b2eeb81f16ee1bd788d53d0871638ae6.jpg');" onmouseover="$('#pr_img_8').prop('src','upload/catalog_list_pic_2/b2eeb81f16ee1bd788d53d0871638ae6.jpg');">
     <!--item-->
     <div class="Img">
@@ -51,6 +58,10 @@
 </div>
 <!--item-->
 
+
+
+
+<!--------歐緹亞 - 布沙發語法-------->
 <div class="item clearfix hasAlbum" itemscope itemtype="http://schema.org/Product" onmouseout="$('#pr_img_9').prop('src','upload/catalog_list_pic/c848be1362ed674a08cc43f1fe12ccd6.jpg');" onmouseover="$('#pr_img_9').prop('src','upload/catalog_list_pic_2/c848be1362ed674a08cc43f1fe12ccd6.jpg');">
     <!--item-->
     <div class="Img">
@@ -68,6 +79,10 @@
 </div>
 <!--item-->
 
+
+
+
+<!--------康堤亞 - 皮沙發語法-------->
 <div class="item clearfix" itemscope itemtype="http://schema.org/Product" onmouseout="$('#pr_img_7').prop('src','upload/catalog_list_pic/9bc466b9989d1bb2b22b434b3aa9c70a.jpg');" onmouseover="$('#pr_img_7').prop('src','upload/catalog_list_pic_2/9bc466b9989d1bb2b22b434b3aa9c70a.png');">
     <!--item-->
     <div class="Img">
@@ -86,6 +101,10 @@
 </div>
 <!--item-->
 
+
+
+
+<!--------雪菲絲 - 皮沙發語法-------->
 <div class="item clearfix" itemscope itemtype="http://schema.org/Product" onmouseout="$('#pr_img_22').prop('src','upload/catalog_list_pic/0a2fd497ffc9554b7829b1473af6bc90.jpg');" onmouseover="$('#pr_img_22').prop('src','upload/catalog_list_pic_2/0a2fd497ffc9554b7829b1473af6bc90.jpg');">
     <!--item-->
     <div class="Img">
