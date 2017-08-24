@@ -6,11 +6,9 @@
                     <img itemprop="image" src="upload/catalog_list_pic/cf0c113d25160ed3b249b0f3d943aca5.jpg" alt="● 雪菲絲 - 皮沙發 ●" id="pr_img_34"></a>
     </div>
     <div class="Txt b-box">
-        <h3>
-			<span itemprop="name">
-				<a href="product/ins.php?index_id=34">● 雪菲絲 - 皮沙發 ●</a>
-			</span>
-		</h3>
+        <h3 itemprop="name">
+		<a href="product/ins.php?index_id=34">● 雪菲絲 - 皮沙發 ●</a>
+	</h3>
         <p class="ellipsis" itemprop="description">低背設計讓視野更加開闊 完美演繹時尚與效能的雙重美學</p>
     </div>
 </div>
@@ -27,11 +25,9 @@
                     <img itemprop="image" src="upload/catalog_list_pic/a03da667b42965136a80bde94848ecd1.jpg" alt="● 伊士登 - 皮沙發 ●" id="pr_img_17"></a>
     </div>
     <div class="Txt b-box">
-        <h3>
-			<span itemprop="name">
-				<a href="product/ins.php?index_id=17">● 伊士登 - 皮沙發 ●</a>
-			</span>
-		</h3>
+        <h3 itemprop="name">
+		<a href="product/ins.php?index_id=17">● 伊士登 - 皮沙發 ●</a>
+	</h3>
         <p class="ellipsis" itemprop="description">高質感牛皮巨擘推出,坐面以下緣包覆式收邊車法 讓椅邊更顯圓潤飽滿 手座下以鑽石工藝切割而成的水晶玻璃... </p>
     </div>
 </div>
@@ -48,11 +44,9 @@
                     <img itemprop="image" src="upload/catalog_list_pic/b2eeb81f16ee1bd788d53d0871638ae6.jpg" alt="● 韋伯斯 - 皮沙發 ●" id="pr_img_8"></a>
     </div>
     <div class="Txt b-box">
-        <h3>
-			<span itemprop="name">
-				<a href="product/ins.php?index_id=8">● 韋伯斯 - 皮沙發 ●</a>
-			</span>
-		</h3>
+        <h3 itemprop="name">
+		<a href="product/ins.php?index_id=8">● 韋伯斯 - 皮沙發 ●</a>
+	</h3>
         <p class="ellipsis" itemprop="description">雅緻經典英倫系列,左右扶手可拆卸隨意變換, 無左右邊空間問... </p>
     </div>
 </div>
@@ -69,11 +63,9 @@
                     <img itemprop="image" src="upload/catalog_list_pic/c848be1362ed674a08cc43f1fe12ccd6.jpg" alt="● 歐緹亞 - 布沙發 ●" id="pr_img_9"></a>
     </div>
     <div class="Txt b-box">
-        <h3>
-			<span itemprop="name">
-				<a>● 歐緹亞 - 布沙發 ●</a>
-			</span>
-		</h3>
+        <h3 itemprop="name">
+		<a>● 歐緹亞 - 布沙發 ●</a>
+	</h3>
         <p class="ellipsis" itemprop="description">靈感與現代氣息品質的結合，溫馨、典雅而恬淡，突破傳統設計思維，展現合璧後的優越氣息。</p>
     </div>
 </div>
@@ -90,11 +82,9 @@
                     <img itemprop="image" src="upload/catalog_list_pic/9bc466b9989d1bb2b22b434b3aa9c70a.jpg" alt="● 康堤亞 - 皮沙發 ●" id="pr_img_7"></a>
     </div>
     <div class="Txt b-box">
-        <h3>
-			<span itemprop="name">
-				<a href="product/ins.php?index_id=7">● 康堤亞 - 皮沙發 ●</a>
-			</span>
-		</h3>
+        <h3 itemprop="name">
+		<a href="product/ins.php?index_id=7">● 康堤亞 - 皮沙發 ●</a>
+	</h3>
         <p class="ellipsis" itemprop="description">讓靈魂眷戀的雋永晉升品味的昇華<br> 每一個細節來自對美感淬煉的堅持
         </p>
     </div>
@@ -113,11 +103,9 @@
     </div>
     <div class="Txt b-box">
         <div class="ribbon_hot">HOT</div>
-        <h3>
-			<span itemprop="name">
-				<a href="product/ins.php?index_id=22">● 卡柏亞 - 皮沙發 ●</a>
-			</span>
-		</h3>
+        <h3 itemprop="name">
+		<a href="product/ins.php?index_id=22">● 卡柏亞 - 皮沙發 ●</a>
+	</h3>
         <p class="ellipsis" itemprop="description">義大利的極簡設計，特製鋁合金屬配合新一代活動頭枕，讓您在不同時刻隨時調整最適合您的放鬆角度。</p>
     </div>
 </div>
